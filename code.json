@@ -1,0 +1,26 @@
+{
+  "name": "logical-operators",
+  "version": "1.0.0",
+  "description": "A simple React/Nextjs application that demonstrates the use of logical operators.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "babel-jest": "^27.0.6",
+    "babel-preset-next": "^1.7.1",
+    "jest": "^27.0.6",
+    "react-test-renderer": "^17.0.2",
+    "tailwindcss": "^3.0.22"
+  }
+}
